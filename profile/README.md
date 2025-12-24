@@ -20,7 +20,7 @@ As other websites have rules and regulations, we do have some,<br>
 As of 2025 we have noticed that even other websites are being hacked. So, to keep our customers' data safe, we implemented the Procedure PANIC where, when we activate, (saves and protects) your data.
 To keep our procedure safe, we will not say where it saves and protects our clients data so that it doesn't go into the wrong hands, and what we can say is..., we will say no more...
 
-<marquee><b>Thank you</b></marquee>
+<marquee direction="right">This text scrolls to the right.</marquee>
 <!--
 
 **Here are some ideas to get you started:**
